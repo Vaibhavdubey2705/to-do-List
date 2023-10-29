@@ -1,1 +1,3 @@
 # to-do-List
+Experience the simplicity of task management with To-Do List web application. This straightforward application allows users to effortlessly add and remove tasks, making it the perfect tool for those seeking a basic yet effective solution for daily task organization. With an easy-to-use interface, users can quickly create tasks and remove them once completed, all without the complexity of user authentication or additional features.
+Built with a streamlined approach, the application uses Node.js and Express.js on the backend for efficient data handling, while MongoDB stores your tasks. The frontend is crafted with HTML, CSS, and JavaScript to provide a clean and user-friendly interface.
